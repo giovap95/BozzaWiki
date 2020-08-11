@@ -1,0 +1,133 @@
+## Brainstorming
+#### Lista confusa di tutto quello che andrà inserito nella wiki
+
+- Scadenze:
+  - assicurazioni
+  - Iscrizioni a eventi
+  - Richieste fondi
+  - altro
+- Social
+  - Instagram
+  - Facebook
+  - Youtube
+  - Sito Web
+- Inventario Barche: per non dimenticarsi niente
+  - Derive
+  - Vele
+  - Attrezzatura specifica
+- Trasferte
+  - Patente necessaria per portare il carrello barche
+  - badge del lazza
+  - compilazione moduli missione
+- Come si lavora in cantiere
+  - Orari e turni
+  - Pulizia
+  - Utilizzo power tools
+- Accesso al cantiere
+  - Orari cantiere
+  - Apertura porte e portoni (a chi chiedere)
+  - Chiavi delle porte
+  - Orari dei tecnici
+  - ufficio tecnico e di cosa informarli
+- Censimento
+  - Informazioni necessarie
+  - Manutenzione
+  - A cosa serve
+    - Permessi Google Drive
+    - Permessi Wiki
+    - Conteggio membri per richiesta fondi
+    - Conteggio nuovi per divise
+- Manutenzione cantiere
+  - Skaffallo
+  - Pompa a vuoto
+  - power tools
+- Manutenzione barche e gommone
+  - Gommone
+  - Barche
+    - Verniciatura
+    - Colori RAL
+    - Negozio di vernici
+  - Carrello barche
+- Documenti delle proprietà Metis
+  - Assicurazioni
+  - Carte carrello
+  - Carte gommone
+- Allenamenti
+  - Chioggia: chi chiamare, come andare, etc.
+- Chiavi, carte
+  - chiavi gommone
+  - chiavi Chioggia
+- Risorse progettazione
+- Eventi e organizzazione
+  - Recruiting
+  - Notte dei ricercatori
+  - 1001Vela
+  - Design contest
+- Calendario grafico per visualizzare le scadenze annuali più importanti
+- Meetings
+  - Best practices
+  - Prenotare aule, etc
+- Procedure per le spese
+  - Piccole spese
+  - Ordini fuori MEPA
+  - MEPA
+  - Uso Postepay
+  - Uso Paypal
+- Veicoli
+  - Servizio di facchinaggio
+  - Doblò Uni - come prenotarlo
+- Budgeting
+  - Come decidere il Budgeting
+  - Stakeholders
+  - Esempi
+  - Processo
+  - Revisioni annuali
+- Protocollo 1001Vela
+  - Iscrizione
+  - checklist
+  - Uffici da contattare
+  - Costi
+  - Assicurazioni
+- CRM
+ - Fornitori
+ - Uffici UNIPD
+ - Sponsor
+ - Circoli velici
+ - Progettisti
+ - Meccanici
+ - Ex membri VIP
+- Drive
+  - Organizzazione cartelle
+  - Abbonamento Google One
+- Sito web
+  - Come aggiornarlo
+  - contatti
+- Nuovi membri
+  - step iniziali per il nuovo membro metis
+  - badge
+  - Cose da sapere
+- Area riservata
+  - Amministrazione
+    - pwd socials
+  - Boss
+    - pwd postepay, PayPal
+    - pwd account metis Google
+    - altre pwd
+  - progettazione
+    - Licenze crack programmi
+    - pwd AnyDesk
+- Datasheet
+  - safety
+  - materiali
+- Contatti progettisti
+- Manutenzione
+  - Stazione del vento
+  - CNC
+- Possibilità manifatturiere
+- Merchandising
+	- Magliette
+	- Polo
+	- Cappelli
+	- Felpe
+	- Pantaloncini
+	- Giubbotti
